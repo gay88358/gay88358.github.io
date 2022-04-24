@@ -37,6 +37,5 @@ window.Seed = (function () {
       submissionImage: './public/images/submissions/image-aqua.png',
     }
   ];
-
   return { submissions: submissions };
 }());
